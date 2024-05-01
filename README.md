@@ -18,7 +18,7 @@
 	* It can Save Data Or Update date If The Id and Key Already Exist
 	* it is a nice Module That will save lot of our Developing Time
 
-### Arafat Config Modue Example of Use Case
+### Arafat Config Module Example of Use Case
 
 ```php
 <?php
